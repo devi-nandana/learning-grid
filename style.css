@@ -83,3 +83,7 @@ main{
   grid-column: 4/5;
   background-color: #fff;
 }
+
+.card-3 .card__heading, .card-3 .card__head, .card-3 .card__detail, .card-5 .card__heading, .card-5 .card__head, .card-5 .card__detail{
+  color: #222;
+}
